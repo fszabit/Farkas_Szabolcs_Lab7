@@ -1,5 +1,5 @@
 ﻿namespace Farkas_Szabolcs_Lab7;
-
+using SQLite;
 public static class MauiProgram
 {
 	public static MauiApp CreateMauiApp()
